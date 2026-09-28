@@ -1,0 +1,19 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+
+# Swift Package Manager / 构建产物
+.build/
+.swiftpm/
+FirebaseUploaderMac/build/
+FirebaseUploaderMac/dist/
+
+# 日志
+*.log
+
+# AI 工具会话文件（本地产物，不随仓库发布）
+.zcode/
+.claude/
