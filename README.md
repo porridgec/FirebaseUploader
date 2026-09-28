@@ -11,6 +11,10 @@
 
 两个实现共用同一份本地缓存 `~/.firebase_uploader_cache.json`（键名一致），历史记录与上次选择互通，可随意切换使用。
 
+## 界面预览
+
+![SwiftUI 版主界面](docs/screenshot-main.png)
+
 ## 功能
 
 - **Project / iOS App / Groups 选择**：下拉选择 Firebase 项目、自动过滤 iOS 应用、多选测试组（带搜索、全选/清空）
